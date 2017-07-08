@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="1189mm"
+   height="841mm"
+   viewBox="0 0 1189 841"
+   id="svg233"
+   sodipodi:docname="BaseCircular.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata237">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     id="namedview235"
+     showgrid="false"
+     inkscape:zoom="0.26015428"
+     inkscape:cx="2424.7034"
+     inkscape:cy="3001.0325"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg233" />
+  <!-- Working space 0 0 1189 841 -->
+  <defs
+     id="defs12">
+    <radialGradient
+       id="radialGradient3661"
+       gradientUnits="userSpaceOnUse"
+       cy="29.149"
+       cx="282.65"
+       gradientTransform="matrix(.14777 .23089 -.24680 .15795 -26.318 -62.617)"
+       r="19.571">
+      <stop
+         stop-color="#71b2f8"
+         offset="0"
+         id="stop2" />
+      <stop
+         stop-color="#002795"
+         offset="1"
+         id="stop4" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient3817"
+       gradientUnits="userSpaceOnUse"
+       cy="33.9"
+       cx="270.58"
+       gradientTransform="matrix(.26631 .065024 -.17931 .73438 -60.668 -36.938)"
+       r="19.571">
+      <stop
+         stop-color="#ff6d0f"
+         offset="0"
+         id="stop7" />
+      <stop
+         stop-color="#ff1000"
+         offset="1"
+         id="stop9" />
+    </radialGradient>
+  </defs>
+  <!-- Set display:none to hide FreeCAD Logo -->
+  <g
+     id="Ortho_0_0"
+     transform="rotate(0,100,100) translate(100,100) scale(1,1)">
+    <g
+       stroke="rgb(0, 0, 0)"
+       stroke-width="0.35"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       fill="none"
+       transform="scale(1,-1)"
+       id="g21">
+      <circle
+         cx="0"
+         cy="0"
+         r="50"
+         id="circle19" />
+    </g>
+  </g>
+  <g
+     id="Ortho_0_001"
+     transform="rotate(0,210,100) translate(210,100) scale(1,1)">
+    <g
+       stroke="rgb(0, 0, 0)"
+       stroke-width="0.35"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       fill="none"
+       transform="scale(1,-1)"
+       id="g38">
+      <circle
+         cx="0"
+         cy="0"
+         r="50"
+         id="circle24" />
+      <path
+         id="2"
+         d=" M -34 31 L 34 31 " />
+      <path
+         id="3"
+         d=" M 34 31 L 34 -31 " />
+      <path
+         id="4"
+         d=" M 34 -31 L -34 -31 " />
+      <path
+         id="5"
+         d=" M -34 -31 L -34 31 " />
+      <circle
+         cx="-42.5"
+         cy="0"
+         r="1.75"
+         id="circle30" />
+      <circle
+         cx="0"
+         cy="-42.5"
+         r="1.75"
+         id="circle32" />
+      <circle
+         cx="42.5"
+         cy="0"
+         r="1.75"
+         id="circle34" />
+      <circle
+         cx="0"
+         cy="42.5"
+         r="1.75"
+         id="circle36" />
+    </g>
+  </g>
+  <g
+     id="Ortho_0_002"
+     transform="rotate(0,320,100) translate(320,100) scale(1,1)">
+    <g
+       stroke="rgb(0, 0, 0)"
+       stroke-width="0.35"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       fill="none"
+       transform="scale(1,-1)"
+       id="g58">
+      <circle
+         cx="0"
+         cy="0"
+         r="50"
+         id="circle41" />
+      <circle
+         cx="-42.5"
+         cy="0"
+         r="4.5"
+         id="circle43" />
+      <path
+         id="path45"
+         d=" M -34 31 L 34 31 " />
+      <path
+         id="path47"
+         d=" M -34 -31 L -34 31 " />
+      <path
+         id="path49"
+         d=" M 34 31 L 34 -31 " />
+      <path
+         id="6"
+         d=" M 34 -31 L -34 -31 " />
+      <circle
+         cx="0"
+         cy="-42.5"
+         r="4.5"
+         id="circle52" />
+      <circle
+         cx="42.5"
+         cy="0"
+         r="4.5"
+         id="circle54" />
+      <circle
+         cx="0"
+         cy="42.5"
+         r="4.5"
+         id="circle56" />
+    </g>
+  </g>
+  <g
+     id="Ortho_0_004"
+     transform="rotate(0,430,100) translate(430,100) scale(1,1)">
+    <g
+       stroke="rgb(0, 0, 0)"
+       stroke-width="0.35"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       fill="none"
+       transform="scale(1,-1)"
+       id="g79">
+      <circle
+         cx="0"
+         cy="0"
+         r="50"
+         id="circle61" />
+      <path
+         id="path63"
+         d=" M -34 31 L 34 31 " />
+      <path
+         id="path65"
+         d=" M 34 31 L 34 -31 " />
+      <path
+         id="path67"
+         d=" M 34 -31 L -34 -31 " />
+      <path
+         id="path69"
+         d=" M -34 -31 L -34 31 " />
+      <circle
+         cx="-42.5"
+         cy="0"
+         r="1.75"
+         id="circle71" />
+      <circle
+         cx="0"
+         cy="-42.5"
+         r="1.75"
+         id="circle73" />
+      <circle
+         cx="42.5"
+         cy="0"
+         r="1.75"
+         id="circle75" />
+      <circle
+         cx="0"
+         cy="42.5"
+         r="1.75"
+         id="circle77" />
+    </g>
+  </g>
+  <g
+     id="Ortho_0_005"
+     transform="translate(644.75855,99.994804)">
+    <g
+       transform="scale(1,-1)"
+       id="g102"
+       style="fill:none;stroke:#000000;stroke-width:0.34999999;stroke-linecap:butt;stroke-linejoin:miter">
+      <path
+         id="1"
+         d="M -12.9687,3.29479 26.2758,42.5392"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 26.2758,42.5392 A 50,50 0 0 1 -38.7137,-31.6426"
+         id="path83"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path85"
+         d="M -38.7137,-31.6426 -8.37248,-1.30141"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path87"
+         d="m -12.9687,3.29479 4.59622,-4.5962"
+         inkscape:connector-curvature="0" />
+      <circle
+         cx="-3.5527101e-15"
+         cy="42.5"
+         r="1.75"
+         id="circle89" />
+      <circle
+         cx="-42.5"
+         cy="-7.1054299e-15"
+         r="1.75"
+         id="circle91" />
+      <path
+         id="7"
+         d="M 42.5392,26.2758 3.29479,-12.9687"
+         inkscape:connector-curvature="0" />
+      <path
+         id="8"
+         d="m 3.29479,-12.9687 -4.5962,4.59622"
+         inkscape:connector-curvature="0" />
+      <path
+         id="9"
+         d="M -1.30141,-8.37248 -31.6426,-38.7137"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M -31.6426,-38.7137 A 50,50 0 0 1 42.5392,26.2758"
+         id="path96"
+         inkscape:connector-curvature="0" />
+      <circle
+         cx="0"
+         cy="-42.5"
+         r="1.75"
+         id="circle98" />
+      <circle
+         cx="42.5"
+         cy="3.5527101e-15"
+         r="1.75"
+         id="circle100" />
+    </g>
+  </g>
+  <g
+     id="Ortho_0_006"
+     transform="translate(321.50102,205.77027)">
+    <g
+       transform="scale(1,-1)"
+       id="g129"
+       style="fill:none;stroke:#000000;stroke-width:0.34999999;stroke-linecap:butt;stroke-linejoin:miter">
+      <path
+         id="path105"
+         d="M -13.018,3.24544 23.0444,39.3079"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path107"
+         d="m 23.0444,39.3079 5.3033,-5.3033"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path109"
+         d="m 28.3477,34.0046 4.0659,4.0658"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 32.4136,38.0704 a 50,50 0 1 1 5.6568,-5.6568"
+         id="path111"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path113"
+         d="m 34.0046,28.3477 4.0658,4.0659"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path115"
+         d="m 39.3079,23.0444 -5.3033,5.3033"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path117"
+         d="M 3.24544,-13.018 39.3079,23.0444"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path119"
+         d="M -13.018,3.24544 3.24544,-13.018"
+         inkscape:connector-curvature="0" />
+      <circle
+         cx="3.5527101e-15"
+         cy="-42.5"
+         r="1.75"
+         id="circle121" />
+      <circle
+         cx="42.5"
+         cy="0"
+         r="1.75"
+         id="circle123" />
+      <circle
+         cx="-3.5527101e-15"
+         cy="42.5"
+         r="1.75"
+         id="circle125" />
+      <circle
+         cx="-42.5"
+         cy="-3.5527101e-15"
+         r="1.75"
+         id="circle127" />
+    </g>
+  </g>
+  <g
+     id="Ortho_0_008"
+     transform="translate(539.46697,99.999999)">
+    <g
+       transform="scale(1,-1)"
+       id="g144"
+       style="fill:none;stroke:#000000;stroke-width:0.34999999;stroke-linecap:butt;stroke-linejoin:miter">
+      <circle
+         cx="0"
+         cy="0"
+         r="50"
+         id="circle132" />
+      <circle
+         cx="0"
+         cy="0"
+         r="25"
+         id="circle134" />
+      <circle
+         cx="-42.5"
+         cy="0"
+         r="1.75"
+         id="circle136" />
+      <circle
+         cx="0"
+         cy="-42.5"
+         r="1.75"
+         id="circle138" />
+      <circle
+         cx="42.5"
+         cy="0"
+         r="1.75"
+         id="circle140" />
+      <circle
+         cx="0"
+         cy="42.5"
+         r="1.75"
+         id="circle142" />
+    </g>
+  </g>
+  <g
+     id="Ortho_0_009"
+     transform="translate(539.46697,210)">
+    <g
+       transform="scale(1,-1)"
+       id="g159"
+       style="fill:none;stroke:#000000;stroke-width:0.34999999;stroke-linecap:butt;stroke-linejoin:miter">
+      <circle
+         cx="0"
+         cy="0"
+         r="50"
+         id="circle147" />
+      <circle
+         cx="0"
+         cy="0"
+         r="25"
+         id="circle149" />
+      <circle
+         cx="-42.5"
+         cy="0"
+         r="1.75"
+         id="circle151" />
+      <circle
+         cx="0"
+         cy="-42.5"
+         r="1.75"
+         id="circle153" />
+      <circle
+         cx="42.5"
+         cy="0"
+         r="1.75"
+         id="circle155" />
+      <circle
+         cx="0"
+         cy="42.5"
+         r="1.75"
+         id="circle157" />
+    </g>
+  </g>
+  <g
+     id="Ortho_0_010"
+     transform="translate(99.256605,205.77057)">
+    <g
+       transform="scale(1,-1)"
+       id="g174"
+       style="fill:none;stroke:#000000;stroke-width:0.34999999;stroke-linecap:butt;stroke-linejoin:miter">
+      <circle
+         cx="0"
+         cy="0"
+         r="50"
+         id="circle162" />
+      <circle
+         cx="0"
+         cy="0"
+         r="30"
+         id="circle164" />
+      <circle
+         cx="-42.5"
+         cy="0"
+         r="1.75"
+         id="circle166" />
+      <circle
+         cx="0"
+         cy="-42.5"
+         r="1.75"
+         id="circle168" />
+      <circle
+         cx="42.5"
+         cy="0"
+         r="1.75"
+         id="circle170" />
+      <circle
+         cx="0"
+         cy="42.5"
+         r="1.75"
+         id="circle172" />
+    </g>
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.34999999;stroke-linecap:butt;stroke-linejoin:miter"
+     id="path177"
+     d="m 434.74646,218.78827 36.06246,-36.0624"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.34999999;stroke-linecap:butt;stroke-linejoin:miter"
+     id="path179"
+     d="M 434.74646,218.78827 418.48302,202.52483"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.34999999;stroke-linecap:butt;stroke-linejoin:miter"
+     id="path181"
+     d="m 470.80892,182.72587 -5.3033,-5.3033"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.34999999;stroke-linecap:butt;stroke-linejoin:miter"
+     id="path183"
+     d="m 418.48302,202.52483 36.0624,-36.06246"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.34999999;stroke-linecap:butt;stroke-linejoin:miter"
+     id="path185"
+     d="m 454.54542,166.46237 5.3033,5.3033"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.34999999;stroke-linecap:butt;stroke-linejoin:miter"
+     id="path187"
+     d="m 459.84872,171.76567 4.0659,-4.0658"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.34999999;stroke-linecap:butt;stroke-linejoin:miter"
+     d="m 469.57142,173.35667 a 50,50 0 0 1 -69.713,71.1273"
+     id="path196"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.34999999;stroke-linecap:butt;stroke-linejoin:miter"
+     id="12"
+     d="m 465.50562,177.42257 4.0658,-4.0659"
+     inkscape:connector-curvature="0" />
+  <circle
+     style="fill:none;stroke:#000000;stroke-width:0.34999999;stroke-linecap:butt;stroke-linejoin:miter"
+     cx="248.27026"
+     cy="431.50101"
+     r="1.75"
+     id="circle199"
+     transform="matrix(0,1,1,0,0,0)" />
+  <circle
+     style="fill:none;stroke:#000000;stroke-width:0.34999999;stroke-linecap:butt;stroke-linejoin:miter"
+     cx="163.27026"
+     cy="431.50101"
+     r="1.75"
+     id="circle201"
+     transform="matrix(0,1,1,0,0,0)" />
+  <circle
+     style="fill:none;stroke:#000000;stroke-width:0.34999999;stroke-linecap:butt;stroke-linejoin:miter"
+     cx="205.77028"
+     cy="474.00101"
+     r="1.75"
+     id="circle203"
+     transform="matrix(0,1,1,0,0,0)" />
+  <circle
+     style="fill:none;stroke:#000000;stroke-width:0.34999999;stroke-linecap:butt;stroke-linejoin:miter"
+     cx="205.77028"
+     cy="389.00101"
+     r="1.75"
+     id="circle205"
+     transform="matrix(0,1,1,0,0,0)" />
+  <path
+     id="path207"
+     style="fill:none;stroke:#ff0000;stroke-width:0.34999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 392.78732,237.41287 a 50,50 0 0 0 7.0711,7.0711 m 10.6066,-10.6066 -10.6066,10.6066 m 3.5355,-17.6777 7.0711,7.0711 m -17.6777,3.5355 10.6066,-10.6066"
+     inkscape:connector-curvature="0" />
+  <g
+     id="Ortho_0_012"
+     transform="translate(209.25661,205.77057)">
+    <g
+       transform="scale(1,-1)"
+       id="g230"
+       style="fill:none;stroke:#000000;stroke-width:0.34999999;stroke-linecap:butt;stroke-linejoin:miter">
+      <circle
+         cx="0"
+         cy="0"
+         r="50"
+         id="circle212" />
+      <path
+         id="path214"
+         d="M -12.9047,3.35876 23.1577,39.4212"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path216"
+         d="M -12.9047,3.35876 3.35876,-12.9047"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path218"
+         d="M 3.35876,-12.9047 39.4212,23.1577"
+         inkscape:connector-curvature="0" />
+      <circle
+         cx="3.1974399e-14"
+         cy="-42.5"
+         r="1.75"
+         id="circle220" />
+      <circle
+         cx="42.5"
+         cy="3.1974399e-14"
+         r="1.75"
+         id="circle222" />
+      <circle
+         cx="-3.1974399e-14"
+         cy="42.5"
+         r="1.75"
+         id="circle224" />
+      <circle
+         cx="-42.5"
+         cy="-3.1974399e-14"
+         r="1.75"
+         id="circle226" />
+      <path
+         id="path228"
+         d="M 23.1577,39.4212 39.4212,23.1577"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <path
+     id="path207-3"
+     style="fill:none;stroke:#180000;stroke-width:0.35000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 392.78732,237.41287 a 49.999999,49.999999 0 0 0 7.0711,7.0711 m -7.0711,-7.0711 a 50,50 0 0 1 71.1273,-69.713"
+     inkscape:connector-curvature="0" />
+</svg>
