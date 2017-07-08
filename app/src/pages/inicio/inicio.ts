@@ -11,6 +11,7 @@ import {PaginaOpciones} from '../opciones/opciones';
 })
 export class PaginaInicio {
   public UUID_UART_SERVICE = "6e400001-b5a3-f393-e0a9-e50e24dcca9e";
+
   private dispositivos:Array<any>;
   private zone:any;
   private buscador;
@@ -26,14 +27,13 @@ export class PaginaInicio {
     this.dispositivos = [];
     var scan = this.ble.scan([this.UUID_UART_SERVICE],1000);
     if(typeof scan !== 'undefined'){
-        scan.subscribe((dispositivo)=>{
-          this.zone.run(()=>{
-            this.dispositivos.push(dispositivo);
-            console.info(JSON.stringify(dispositivo));
-          });
+      scan.subscribe((dispositivo)=>{
+        this.zone.run(()=>{
+          this.dispositivos.push(dispositivo);
+          console.info(JSON.stringify(dispositivo));
         });
+      });
     }
-
   }
 
   public conectar(dispositivo:any){
